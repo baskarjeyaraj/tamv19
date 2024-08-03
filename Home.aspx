@@ -11,7 +11,7 @@
 		 <meta property="og:title" content="منصة دور الروضة">
  <meta property="og:description" content="منصة دور الروضة">
  <meta property="og:image" content="https://beta.ysbstech.com/v10/tamliklogo.jpg">
- <meta property="og:url" content="https://example.com">
+ <meta property="og:url" content="https://beta.ysbstech.com/v10/">
  <meta property="og:type" content="website">
  
   
